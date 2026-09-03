@@ -4,5 +4,5 @@ git config --global user.name "ArchanaPulijala"
 git config --global user.email "archanasarvagna@hotmail.com"
 git add .
 git commit -m "first commit"
-git push -u origin main
+git push -u origin main     git push origin master
 */
